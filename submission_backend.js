@@ -1,5 +1,3 @@
-// submission_backend.js
-
 const submissions = [];
 
 document.getElementById('submissionForm').addEventListener('submit', function(event) {
